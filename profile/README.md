@@ -1,6 +1,6 @@
 ## Connecting people everywhere.
 
-Hey there! We are ENDR, an Australian technology company specialising in social networking and moderation, AI, and infrastructure.
+Hey there! We are Poliberry, an Australian technology company specialising in social networking and moderation, AI, and infrastructure.
 
 We do things differently around here, and all of our software is open source under the MIT license.
 
